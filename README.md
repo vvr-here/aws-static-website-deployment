@@ -133,16 +133,10 @@ Through this project, I learned:
 
 <img width="932" height="406" alt="image" src="https://github.com/user-attachments/assets/115e5715-44a6-488f-9d21-e565a2ab8861" />
 
-## 👨‍💻 Author
+## 👨‍💻 Project Author
 
 **Vineet Vikram Rao**
-
-- LinkedIn: https://www.linkedin.com/in/vvrao13
 
 ---
 
 ⭐ If you find this project useful, feel free to explore the repository and learn more about AWS cloud deployment.
-
-**Project:** Static Website Hosting with Amazon S3 and Amazon CloudFront  
-**Category:** Cloud Computing / AWS  
-**Level:** Beginner

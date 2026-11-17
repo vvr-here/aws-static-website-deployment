@@ -130,15 +130,19 @@ Through this project, I learned:
 ## 📸 Project Screenshots
 
 <div align="center">
-  <img src="screenshots/deployment-architecture.jpeg" alt="deployment-architecture" width="600">
+  <img src="screenshots/deployment-architecture.jpeg" alt="Deployment Architecture" style="max-width: 100%; height: auto;">
 </div>
 
-<div align="center">
-  <img src="screenshots/static-s3-bucket.png" alt="S3 Bucket" width="600">
-</div>
+<br>
 
 <div align="center">
-  <img src="screenshots/static-web-distro.png" alt="Cloudfront Distro" width="600">
+  <img src="screenshots/static-s3-bucket.png" alt="S3 Bucket" style="max-width: 100%; height: auto;">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/static-web-distro.png" alt="CloudFront Distribution" style="max-width: 100%; height: auto;">
 </div>
 
 ## 👨‍💻 Project Author

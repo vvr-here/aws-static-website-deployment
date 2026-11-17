@@ -129,9 +129,7 @@ Through this project, I learned:
 
 ## 📸 Project Screenshots
 
-<img width="935" height="458" alt="image" src="https://github.com/user-attachments/assets/37cf8a2c-0b5f-4754-91fa-df14be49135f" />
 
-<img width="932" height="406" alt="image" src="https://github.com/user-attachments/assets/115e5715-44a6-488f-9d21-e565a2ab8861" />
 
 ## 👨‍💻 Project Author
 

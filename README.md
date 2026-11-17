@@ -4,7 +4,7 @@
 
 This project demonstrates how I deployed a static website on **Amazon Web Services (AWS)** using Amazon S3 for storing website files and Amazon CloudFront for fast, secure content delivery.
 
-The objective was to understand static website deployment, cloud storage, CDN configuration, and the process of delivering website content to users around the world.
+The objective was to gain practical experience with static website deployment, cloud storage, CDN configuration, and delivering website content to users around the world.
 
 ## 🏗️ Architecture
 
@@ -23,7 +23,7 @@ The objective was to understand static website deployment, cloud storage, CDN co
        (HTML, CSS, JS, Images)
 ```
 
-**AWS Services Used**
+### AWS Services Used
 
 - **Amazon S3:** Stores static website files such as HTML, CSS, JavaScript, and images.
 - **Amazon CloudFront:** Distributes website content through AWS edge locations to reduce latency.
@@ -53,7 +53,7 @@ website/
 └── images/
 ```
 
-The website consists of frontend files that can be delivered directly to users without a backend server.
+The website consists of frontend files that can be delivered directly to users without requiring a backend server.
 
 ### 2. Created an Amazon S3 Bucket
 
@@ -109,15 +109,15 @@ If cached content prevented the latest changes from appearing, I created a Cloud
 
 ## 📚 Key Learnings
 
-Through this project, I learned:
+Through this project, I gained practical knowledge of:
 
-- How to store and manage static website files in Amazon S3.
-- How to configure a CloudFront distribution.
-- How a Content Delivery Network (CDN) improves content delivery.
-- How to configure Origin Access Control between CloudFront and S3.
-- How to use HTTPS for secure website access.
-- How caching and cache invalidation work in CloudFront.
-- How cloud services work together to deploy a website.
+- Storing and managing static website files in Amazon S3.
+- Configuring an Amazon CloudFront distribution.
+- Understanding how a Content Delivery Network (CDN) improves content delivery.
+- Configuring Origin Access Control between CloudFront and S3.
+- Using HTTPS for secure website access.
+- Understanding caching and cache invalidation in CloudFront.
+- Integrating AWS services to deploy a static website.
 
 ## 💡 Future Improvements
 
@@ -125,25 +125,19 @@ Through this project, I learned:
 - Add an SSL/TLS certificate through AWS Certificate Manager.
 - Automate deployments using GitHub Actions.
 - Configure CloudFront access logs and monitoring.
-- Implement infrastructure as code using Terraform.
+- Implement Infrastructure as Code (IaC) using Terraform.
 
 ## 📸 Project Screenshots
 
-<div align="center">
-  <img src="screenshots/deployment-architecture.jpeg" alt="Deployment Architecture" style="max-width: 100%; height: auto;">
-</div>
+\<div align="center">   \<img src="screenshots/deployment-architecture.jpeg" alt="AWS Deployment Architecture" style="max-width: 100%; height: auto;"> \</div>
 
-<br>
+\<br>
 
-<div align="center">
-  <img src="screenshots/static-s3-bucket.png" alt="S3 Bucket" style="max-width: 100%; height: auto;">
-</div>
+\<div align="center">   \<img src="screenshots/static-s3-bucket.png" alt="Amazon S3 Bucket Configuration" style="max-width: 100%; height: auto;"> \</div>
 
-<br>
+\<br>
 
-<div align="center">
-  <img src="screenshots/static-web-distro.png" alt="CloudFront Distribution" style="max-width: 100%; height: auto;">
-</div>
+\<div align="center">   \<img src="screenshots/static-web-distro.png" alt="Amazon CloudFront Distribution" style="max-width: 100%; height: auto;"> \</div>
 
 ## 👨‍💻 Project Author
 

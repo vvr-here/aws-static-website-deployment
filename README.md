@@ -129,15 +129,15 @@ Through this project, I gained practical knowledge of:
 
 ## 📸 Project Screenshots
 
-\<div align="center">   \<img src="screenshots/deployment-architecture.jpeg" alt="AWS Deployment Architecture" style="max-width: 100%; height: auto;"> \</div>
-
-\<br>
-
-\<div align="center">   \<img src="screenshots/static-s3-bucket.png" alt="Amazon S3 Bucket Configuration" style="max-width: 100%; height: auto;"> \</div>
-
-\<br>
-
-\<div align="center">   \<img src="screenshots/static-web-distro.png" alt="Amazon CloudFront Distribution" style="max-width: 100%; height: auto;"> \</div>
+<div align="center"> 
+<img src="screenshots/deployment-architecture.jpeg" alt="AWS Deployment Architecture" style="max-width: 100%; height: auto;"> \</div>
+<br>
+<div align="center">   
+<img src="screenshots/static-s3-bucket.png" alt="Amazon S3 Bucket Configuration" style="max-width: 100%; height: auto;"> \</div>
+<br>
+<div align="center">   
+<img src="screenshots/static-web-distro.png" alt="Amazon CloudFront Distribution" style="max-width: 100%; height: auto;">
+</div>
 
 ## 👨‍💻 Project Author
 
